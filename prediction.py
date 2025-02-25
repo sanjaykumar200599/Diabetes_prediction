@@ -39,7 +39,7 @@
 #     DiabetesPedigreeFunction=st.text_input('Diabetes Pedigree Function Value')
 #     Age=st.text_input('Age')
    
-#     #code for prediction
+#    
 #     diagnosis=''
 
 #     #creating the button for prediction
