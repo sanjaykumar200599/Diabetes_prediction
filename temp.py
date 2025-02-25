@@ -1,7 +1,7 @@
 import numpy as np
 import pickle
 
-#loading the model
+#loading the saved model
 loaded_model = pickle.load(open('trained_model.sav','rb'))
 
 input_data = (5,116,74,0,0,25.6,0.201,30)
