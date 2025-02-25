@@ -42,7 +42,7 @@
 #    
 #     diagnosis=''
 
-#     #creating the button for prediction
+#     
 #     if(st.button('Diabetes Test Result')):
 #         diagnosis=diabetes_prediction([Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age])
     
